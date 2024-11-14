@@ -1,0 +1,51 @@
+ /* ESTILO GERAL */
+
+ *{
+    margin: 20;
+    padding: 20;
+    box-sizing: border-box; 
+       font-family: monospace;
+    }
+    
+    body{
+        background-color:#0f0f0ffd ;
+        height: 100vh;
+        color:rgb(255, 255, 255);
+        font-size: large;
+    }
+
+      ul {
+      display: list-item;
+      margin: 0 10px;
+      font-size: 24px;
+      text-decoration: none;
+      color: rgb(255, 252, 252);
+      }
+
+      img{
+      text-align: center;
+      width: 150px;
+      padding: 10px;
+      }
+      .btn-social button{
+         width: 40px;
+         height: 40px;
+         border-radius: 50%;
+         border: none;
+         background-color: #056405;
+         font-size: 20px;
+         cursor: pointer;
+         margin: 0 5px;
+         transition: .2s;
+         }
+
+
+
+
+
+
+
+
+
+
+
